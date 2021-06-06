@@ -1,2 +1,3 @@
 first
 Added line from first branch
+added from second branch
